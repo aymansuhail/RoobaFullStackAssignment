@@ -1,1 +1,1 @@
-1. Install NODE_MODULES of frontend and backend using "npm install" command
+1. Install NODE_MODULES  using "npm install" command
